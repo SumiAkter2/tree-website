@@ -1,0 +1,44 @@
+.my-font{
+    font-weight: 600;
+  font-size: larger;
+}
+.my-fonts{
+    font-weight: 700;
+}
+.text-bg{
+    color: green;
+}
+.img-width{
+    width: 200px;
+}
+.bgs-success{
+    background-color: rgba(0, 0, 0, 0.972);
+    box-shadow: 10px 10px rgb(36, 36, 35);
+    color:green;
+    font-size: large;
+}
+.bgs-danger{
+    background-color: rgba(0, 0, 0, 0.972);
+    box-shadow: 10px 10px rgb(36, 36, 35);
+    color:green;
+    font-size: large;
+}
+.bgs{
+    background-color: rgba(0, 0, 0, 0.972);
+    box-shadow: 10px 10px rgb(36, 36, 35);
+    color:green;
+    font-size: large;
+}
+.btn{
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.972);
+    background-color: green;
+}
+.imgs-width{
+height: 500px;
+}
+.bgss-success{
+    background-color: rgb(18, 145, 18);
+}
+.bgsss-success{
+    background-color: rgba(47, 226, 47, 0.966);
+}
